@@ -1,0 +1,12 @@
+[submodule "Frameworks/LPKit"]
+	path = Frameworks/LPKit
+	url = git://github.com/luddep/LPKit.git
+[submodule "Frameworks/EKActivityIndicatorView"]
+	path = Frameworks/EKActivityIndicatorView
+	url = git://github.com/elii/EKActivityIndicatorView.git
+[submodule "Frameworks/EKGradientView"]
+	path = Frameworks/EKGradientView
+	url = git://github.com/elii/EKGradientView.git
+[submodule "Frameworks/EKShakeAnimation"]
+	path = Frameworks/EKShakeAnimation
+	url = git://github.com/elii/EKShakeAnimation.git
